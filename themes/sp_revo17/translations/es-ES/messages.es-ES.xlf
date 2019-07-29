@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spcountdownproduct\views\templates\hook\default.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="70f23ff594252e51839210b6cc9641fc">
+        <source>Quick View</source>
+        <target>Quick View</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spcountdownproduct\views\templates\hook\default.tpl:73</note>
+      </trans-unit>
+      <trans-unit id="a64fb653c845f08792549a27208c8c7d">
+        <source>Ulimited</source>
+        <target>Ulimited</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spcountdownproduct\views\templates\hook\default.tpl:99</note>
+      </trans-unit>
+      <trans-unit id="638f592f71fc3fac3351534e69f9d29f">
+        <source>Add to Cart</source>
+        <target>Add to Cart</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spcountdownproduct\views\templates\hook\default.tpl:162</note>
+      </trans-unit>
+      <trans-unit id="f5de82513e074f3bbabb71f87779f95c">
+        <source>Has no content to show In Module Sp Countdown Product</source>
+        <target>Has no content to show In Module Sp Countdown Product</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spcountdownproduct\views\templates\hook\default.tpl:204</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\_partials\header\button-search.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="13348442cc6a27032d2b4aa28b75a5d3">
+        <source>Search</source>
+        <target>Search</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\_partials\header\button-search.tpl:28</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\catalog\listing\category.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="f73cc399b5ce12735a57f03414f09ef9">
+        <source>Subcategories</source>
+        <target>Subcategories</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\catalog\listing\category.tpl:55</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\_partials\sp-cpanel.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="7ebd83d2123821a01c2688516e5a84ff">
+        <source>Demo Options</source>
+        <target>Demo Options</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\_partials\sp-cpanel.tpl:8</note>
+      </trans-unit>
+      <trans-unit id="fecbba973bbefbcaff0798ddaacca29f">
+        <source>Select Theme Color</source>
+        <target>Select Theme Color</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\_partials\sp-cpanel.tpl:12</note>
+      </trans-unit>
+      <trans-unit id="afce416b3330abed133c882601b922fc">
+        <source>Select Menu</source>
+        <target>Select Menu</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\_partials\sp-cpanel.tpl:19</note>
+      </trans-unit>
+      <trans-unit id="0b0462c630126d7262c32da5f5feb9e9">
+        <source>Menu Scroll</source>
+        <target>Menu Scroll</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\_partials\sp-cpanel.tpl:23</note>
+      </trans-unit>
+      <trans-unit id="65ed94493b633f6c00a2c582eb6ca7ff">
+        <source>Menu On Top</source>
+        <target>Menu On Top</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\_partials\sp-cpanel.tpl:24</note>
+      </trans-unit>
+      <trans-unit id="c38f26b4457908ddb18fa40e31ee03c4">
+        <source>Select Product Effect</source>
+        <target>Select Product Effect</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\_partials\sp-cpanel.tpl:31</note>
+      </trans-unit>
+      <trans-unit id="466a4898541cac8590e18025973fcd22">
+        <source>One Image Product</source>
+        <target>One Image Product</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\_partials\sp-cpanel.tpl:35</note>
+      </trans-unit>
+      <trans-unit id="a77d208beb976c96c671ca4df8f82233">
+        <source>Two Images Product</source>
+        <target>Two Images Product</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\_partials\sp-cpanel.tpl:36</note>
+      </trans-unit>
+      <trans-unit id="9ddb9651fdd4e015b7e145b6a881fe78">
+        <source>Select Layout Style</source>
+        <target>Select Layout Style</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\_partials\sp-cpanel.tpl:43</note>
+      </trans-unit>
+      <trans-unit id="b2e65dd885f23af9aa18dc3485fe847b">
+        <source>Full Width</source>
+        <target>Full Width</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\_partials\sp-cpanel.tpl:47</note>
+      </trans-unit>
+      <trans-unit id="6d1ca8184c6a1f11ecccfa17f8f9048a">
+        <source>Boxed</source>
+        <target>Boxed</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\_partials\sp-cpanel.tpl:48</note>
+      </trans-unit>
+      <trans-unit id="6b73ad372508225645eb96a2e505a602">
+        <source>Framed</source>
+        <target>Framed</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\_partials\sp-cpanel.tpl:49</note>
+      </trans-unit>
+      <trans-unit id="bef2481eda40bd121482f1814d72314f">
+        <source>Rounded</source>
+        <target>Rounded</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\_partials\sp-cpanel.tpl:50</note>
+      </trans-unit>
+      <trans-unit id="68b12bdb1ef5295b1c774b7d5f0bd857">
+        <source>Select Body Image</source>
+        <target>Select Body Image</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\_partials\sp-cpanel.tpl:57</note>
+      </trans-unit>
+      <trans-unit id="75dba6057ab7a0228c6e6cea64b7b3c0">
+        <source>Background only applies for Boxed, Framed, Rounded Layout</source>
+        <target>Background only applies for Boxed, Framed, Rounded Layout</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\_partials\sp-cpanel.tpl:66</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

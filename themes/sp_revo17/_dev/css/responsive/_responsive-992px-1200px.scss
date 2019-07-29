@@ -1,0 +1,120 @@
+/* 3.Medium devices Desktops 
+================================================== */
+@media (max-width: 1199px) {
+    //-- Block Cart
+    .spblockcart .cart-content{
+        display: none;
+    }
+    
+    div.user-info{
+        margin: 0 12px 0 0;
+    }
+    
+    .header_v1 {
+            #header-logo {
+            margin-bottom: 30px;
+            text-align: center;
+        }
+    }
+    
+    //------------Layout 4 ---------------------//
+    .footer-v4.footer-container .footer-social .socials a{
+        margin: 0 10px 0 0;
+    }
+	.content-v5.content-v4{
+		.margin-layout5{margin-bottom: 30px;}
+		.spcategories-layout5{
+			.featured {
+				.item {
+					.content{
+						.text{
+							width: 100%;
+							h4{
+								a{width: 100%;}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	.footer-v5.footer-v2.footer-container{
+		.footer-top{padding: 30px 0;}
+		#newsletter_block_home {
+			h3.title_block{display:none;}
+		}
+	}
+    
+    //-- RTL
+    .lang-rtl{
+        div.user-info{
+            margin: 0 0 0 12px;
+        }
+        
+        div#_desktop_splanguage{
+            margin: 0 0 0 15px;
+        }
+        
+        //------------Layout 4 ---------------------//
+        .footer-v4.footer-container .footer-social .socials a{
+            margin: 0 0 0 10px;
+        }
+    }
+    
+    .footer-v8 .contactinfo{
+        width: 100%;
+    }
+    
+}
+
+@media (min-width: 992px) {
+    .group-link-7-1{
+        width: 31%;
+    }
+    
+    .group-link-7-2, .group-link-7-3{
+        width: 22%;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .container {
+        width: 970px !important;
+        max-width: none;
+    }
+    
+    .header_v1{
+        #header-logo{
+            width: 100%;
+        }
+        #header_menu{
+            width: 75%;
+        }
+        .contact-html {
+            width: 25%;
+        }
+        div.slider-container{
+           width: 55.9%;
+           left: 22.6%;
+        }
+    }
+    
+    div.footer-social h3.block-title{
+        margin: 0 0 20px;
+    }
+    
+    .lang-rtl{
+        
+        .header_v1 {
+            div.slider-container{
+                right: 22.6%;
+                left: auto;
+            }
+        }
+        
+        div.footer-social h3.block-title{
+            margin: 0 0 20px;
+        }
+    }
+    
+}

@@ -1,0 +1,271 @@
+/*******************************************************
+  Module Style
+********************************************************/
+
+//-- PS_CATEGORIES TREE
+
+.facet-dropdown{
+	.select-title{display: block;}
+	&:hover{cursor: pointer;}
+	.dropdown-menu{
+		> a{
+			display: block;
+			padding: 0 15px;
+		}
+	}
+}
+
+.block-categories {
+     margin-bottom: 40px;
+     border: 1px solid #ebebeb;
+     h3.block-title{
+          margin: 0;
+          background: #f2f2f2;
+     }
+     .category-sub-menu {
+          margin: 0;
+          padding: 0;
+          li {
+               position: relative;
+               a{
+                    display: block;
+                    position: relative;
+                    padding: 11px 18px;
+                    border-top: 1px solid #ebebeb;
+                    font-size: 13px;
+                    color: #7d7d7d;
+                    font-weight: normal;
+                    transition: 0.3s all ease 0s;
+                    &:hover{
+                        color: $linkColor;
+                    }
+               }
+               &:hover{
+                    .collapse-icons {
+                         color: $linkColor;
+                    }
+               }
+               &[data-depth="1"]{
+                   a{padding-left: 38px;}
+               }
+               &[data-depth="2"]{
+                   a{padding-left: 58px;}
+               }
+          }
+          
+     }
+     .collapse-icons {
+          position: absolute;
+          right: 8px;
+          top: 12px;
+          padding: 0;
+          cursor: pointer;
+          color: #444;
+          font-size: 16px;
+          .material-icons {font-size: 14px;}
+          .remove {display: none; }
+          .add:hover, .remove:hover {color: $linkColor;}
+          &[aria-expanded="true"] .add {display: none;}
+          &[aria-expanded="true"] .remove {display: block;}
+     }
+     .arrows {position: absolute;top: 12px;right: 11px;margin: 0;padding: 0;cursor: pointer;color: #444;
+          .material-icons {font-size: 14px;}
+          .arrow-down {display: none; }
+          .arrow-right, .arrow-down {
+               &:hover {color: $linkColor;}
+          }
+          &[aria-expanded="true"] .arrow-right {display: none; }
+          &[aria-expanded="true"] .arrow-down {display: inline-block; }
+     }
+}
+
+//-- PS_FILTER
+#search_filters {
+    margin-bottom: 40px;
+    border: 1px solid #ebebeb;
+    border-bottom: none;
+    position: relative;
+     h3.block-title{
+          margin-bottom: 0;
+          border-bottom: 1px solid #ebebeb;
+          background: #f2f2f2;
+     }
+     .clear-all-wrapper {
+          position: absolute;
+          right: 5px;
+          top: 8px;
+          z-index: 2;
+          .js-search-filters-clear-all {
+               margin: 0;
+               box-shadow: none;
+               font-size: 12px;
+               text-transform: capitalize;
+               color: #222;
+               .material-icons {margin: 0;}
+               &:hover {color: $linkColor;}
+          }
+     }
+     .facet {
+          padding: 0 0 15px;
+          background: #ffffff;
+          &:last-child{
+               padding: 0;
+          }
+          .collapse {
+               margin: 0;
+               display: block;
+               padding: 0;
+          }
+          .facet-title {
+               float: none;
+               padding: 15px 20px;
+               border-bottom: 1px solid #ebebeb;
+               margin: 0;
+               text-transform: uppercase;
+               font-size: 13px;
+               font-weight: 700;
+               color: #222;
+          }
+          li{
+               padding: 0;
+               position: relative;
+               width: 100%;
+               clear: both;
+               color: #1e1e1e;
+               text-transform: uppercase;
+               font-size: 13px;
+               border-bottom: 1px solid #ebebeb;
+          }
+          li:last-child .facet-label a{
+               border-bottom: none;
+          }
+          .facet-label {
+               padding: 0;
+               margin: 0;
+               display: block;
+               text-align: left;
+			    padding: 10px 20px;
+               a {
+                    margin: 0;
+                    font-weight: 600;
+                    vertical-align: middle;
+                    position: relative;
+                    z-index: 2;
+                    text-transform: capitalize;
+                    color: #7d7d7d;
+                    font-size: 13px;
+               }
+               .color {margin: 0 5px 0 0;box-shadow: none;}
+               .custom-checkbox {display: none;}
+               &.active, &:hover {
+                    cursor: pointer;
+                    a{
+                         color: $linkColor;
+                         border-bottom-color: $linkColor;
+                    }
+                    .custom-checkbox span.color {border: solid 2px $linkColor;}
+                    .custom-checkbox input[type="checkbox"] + span .checkbox-checked {display: block;color: $linkColor;display: none;}
+                    .custom-checkbox input[type="checkbox"] + span {border-color: $linkColor;display: none;}
+               }
+          }
+     }
+}
+//-- PS_SEARCH
+.search-widget{margin-top: 40px;
+     form{
+          input[type="text"]{padding: 2px 30px;padding-right: 50px;width: 100%;height: 46px;background-color:#fff;border: 1px solid #ddd;border-radius:50px;font-size :14px;
+               &::-webkit-input-placeholder {color: #888;}
+               &:-moz-placeholder {color: #888;}
+               &::-moz-placeholder {color: #888;}
+               &:-ms-input-placeholder {color: #888;}
+               &:hover,&:focus{border: 1px solid $linkColor;outline: 0px;}
+          }
+          button[type="submit"]{bottom: 0px;width: 50px;height: 46px;color: #444;line-height: 46px;}
+     }
+}
+
+//-- PS CategoryProduct
+
+.category-products{
+     margin-top: 35px;
+     h3.title-block{
+          border: none;
+          font-size: 18px;
+          font-weight: 700;
+          color: #222;
+          text-transform: uppercase;
+          margin: 0 0 30px;
+          padding: 0 0 10px;
+          border-bottom: 1px solid #e8e8e8;
+          position: relative;
+          &:before{
+               content: "";
+               position: absolute;
+               background: #ff5c00;
+               height: 2px;
+               width: 100px;
+               left: 0;
+               right: auto;
+               top: auto;
+               bottom: -1px;
+          }
+     }
+     h5.quantity{
+          display: none;
+     }
+     .product-miniature {
+          margin-bottom: 0;
+     }
+     .owl-controls {
+          .owl-prev, .owl-next {
+              font-size: 0;
+              width: 29px;
+              height: 29px;
+              border-radius: 50%;
+              background: #fff;
+              border: 1px solid #e8e8e8;
+              position: absolute;
+              z-index: 2;
+              top: -68px;
+              color: transparent;
+              margin: 0;
+              cursor: pointer;
+              display: inline-block;
+              transition: 0.3s all ease 0s;
+              &:before {
+                  font-family: fontawesome;
+                  display: inline-block;
+                  position: absolute;
+                  text-align: center;
+                  color: #e8e8e8;
+                  top: 0;
+                  left: 0;
+                  line-height: 26px;
+                  font-size: 16px;
+                  height: 100%;
+                  width: 100%;
+                  transition: 0.3s all ease 0s;
+              }
+          }
+          .owl-prev {
+              left: auto; right: 35px;
+              &:before {content: "\f0d9"; left: 0; right: auto;}
+          }
+          .owl-next {
+              left: auto; right: 0;
+              &:before {content: "\f0da";left: 2px; right: auto;}
+          }
+     }
+     .owl-controls {
+          .owl-prev, .owl-next {
+               &:hover{
+                    border-color: #c3c3c3;
+                    background: transparent;
+                    &:before{
+                        color: #c3c3c3;
+                    }
+               }
+          }
+     }
+}
+

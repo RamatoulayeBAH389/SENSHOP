@@ -1,0 +1,51 @@
+
+// Large devices Desktops HD
+// ------------------
+@media (min-width: 1400px) {
+	.header_v4{
+		.header-top .container-customer, .ps-spotlight1 .container-customer{
+			width: 1400px; padding: 0;
+		}
+		.slider-banner{
+			margin: 0 -115px 30px;
+		}
+	}
+}
+
+
+// Large devices Desktops 
+// ------------------
+@media (min-width: 1200px) {
+	
+	.container{
+		width: 1200px;
+	}
+	
+	//-- Header
+	.header_v1{
+		#header_menu{width: 60%;}
+		div.contact-html{
+			width: 23%;
+		}
+		#header-cart{
+			width: 20%;
+		}
+	}
+	.header_v1, .header_v2{
+		#header_search{width: 54.5%;}
+	}
+	.contactinfo {
+		width: 30%;
+	}
+	
+	//-- Menu Fixed
+	.menu-fixed {
+		//-- SP BlockTOpMenu
+		.spsf-menu li {
+			ul.submenu-container {transform:scale(0);-ms-transform:scale(0);-webkit-transform:scale(0);}
+			&:hover ul.submenu-container {transform:scale(1);-ms-transform:scale(1);-webkit-transform:scale(1);}
+		}
+	}
+}
+
+

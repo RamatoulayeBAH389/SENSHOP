@@ -1,0 +1,21 @@
+#table-spfilterproducts tbody .ui-sortable-helper{display:table!important;}
+#table-spfilterproducts tbody .ui-sortable-helper td{ background-color:#00aff0!important;color:#FFF;}
+
+#table-spfilterproducts .action-disabled {
+    color: #c05c67;
+}
+
+#spco_tabs .tab-row ,
+#spco_tabs .tab-row a{
+	outline:none;
+}
+#spco_content div[id^="fieldset_"]{
+	display:none;
+}
+#spco_content div[id^="fieldset_"].spco-open{
+	display:block;
+}
+
+#ui-datepicker-div{
+	z-index:501!important;
+}

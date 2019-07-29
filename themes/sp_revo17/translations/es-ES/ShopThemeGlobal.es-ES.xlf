@@ -1,0 +1,1151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\contactform\views\templates\widget\contactform.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="02d4482d332e1aef3437cd61c9bcc624">
+        <source>Contact us</source>
+        <target>Contacte con nosotros</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\contactform\views\templates\widget\contactform.tpl:43</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\productcomments\productcomments-extra.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="7c3b0e9898b88deee7ea75aafd2e37e2">
+        <source>Average grade</source>
+        <target>Average grade</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\productcomments\productcomments-extra.tpl:15</note>
+      </trans-unit>
+      <trans-unit id="34e80a799d144cfe4af46815e103f017">
+        <source>Reviews</source>
+        <target>Reviews</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\productcomments\productcomments-extra.tpl:43</note>
+      </trans-unit>
+      <trans-unit id="c31732fda0c6f01c446db7163b214de4">
+        <source>Write a review</source>
+        <target>Write a review</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\productcomments\productcomments-extra.tpl:47</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\productcomments\productcomments.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="ab51a81c76d95ddc762194d58ec5db63">
+        <source>Are you sure that you want to report this comment?</source>
+        <target>Are you sure that you want to report this comment?</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\productcomments\productcomments.tpl:12</note>
+      </trans-unit>
+      <trans-unit id="9a2ccd41653469a8bd94fbb84b271a14">
+        <source>Your comment has been added!</source>
+        <target>Your comment has been added!</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\productcomments\productcomments.tpl:15</note>
+      </trans-unit>
+      <trans-unit id="b20968d9aecd2d075519992e9e2f1ffe">
+        <source>Your comment has been submitted and will be available once approved by a moderator.</source>
+        <target>Your comment has been submitted and will be available once approved by a moderator.</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\productcomments\productcomments.tpl:16</note>
+      </trans-unit>
+      <trans-unit id="186c30cab59f6b64a453778330d4bbf0">
+        <source>New comment</source>
+        <target>New comment</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\productcomments\productcomments.tpl:98</note>
+      </trans-unit>
+      <trans-unit id="e0aa021e21dddbd6d8cecec71e9cf564">
+        <source>OK</source>
+        <target>OK</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\productcomments\productcomments.tpl:18</note>
+      </trans-unit>
+      <trans-unit id="7966126831926ad29c528b239d69f855">
+        <source>Write your review</source>
+        <target>Write your review</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\productcomments\productcomments.tpl:167</note>
+      </trans-unit>
+      <trans-unit id="45dacce3e2bc0f7bebde95098b9326a8">
+        <source>Title for your review</source>
+        <target>Title for your review</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\productcomments\productcomments.tpl:64</note>
+      </trans-unit>
+      <trans-unit id="3421ad00975533fbbd5f17d2cb568125">
+        <source>Your review</source>
+        <target>Your review</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\productcomments\productcomments.tpl:67</note>
+      </trans-unit>
+      <trans-unit id="221e705c06e231636fdbccfdd14f4d5c">
+        <source>Your name</source>
+        <target>Your name</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\productcomments\productcomments.tpl:71</note>
+      </trans-unit>
+      <trans-unit id="70397c4b252a5168c5ec003931cea215">
+        <source>Required fields</source>
+        <target>Required fields</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\productcomments\productcomments.tpl:77</note>
+      </trans-unit>
+      <trans-unit id="94966d90747b97d1f0f206c98a8b1ac3">
+        <source>Send</source>
+        <target>Send</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\productcomments\productcomments.tpl:79</note>
+      </trans-unit>
+      <trans-unit id="77564b38300aa82d207c1aa5c9ae7c7b">
+        <source>You are sent a comment success. The administrator will review and approve your comment. Thank you!</source>
+        <target>You are sent a comment success. The administrator will review and approve your comment. Thank you!</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\productcomments\productcomments.tpl:104</note>
+      </trans-unit>
+      <trans-unit id="73249c5c1e5e043208f11ea060494f56">
+        <source>You are sent a comment success. Thank you!</source>
+        <target>You are sent a comment success. Thank you!</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\productcomments\productcomments.tpl:106</note>
+      </trans-unit>
+      <trans-unit id="b5c82723bd85856358f9a376bc613998">
+        <source>%1$d out of %2$d people found this review useful.</source>
+        <target>%1$d out of %2$d people found this review useful.</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\productcomments\productcomments.tpl:146</note>
+      </trans-unit>
+      <trans-unit id="98b82c200a2e309b24cb481970f3fcc4">
+        <source>Like</source>
+        <target>Like</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\productcomments\productcomments.tpl:151</note>
+      </trans-unit>
+      <trans-unit id="ea04e7ef514a25e465197a31c71f52f0">
+        <source>Dislike</source>
+        <target>Dislike</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\productcomments\productcomments.tpl:152</note>
+      </trans-unit>
+      <trans-unit id="4b1b4dc8cf38b3c64b1d657da8f5ac8c">
+        <source>Report</source>
+        <target>Report</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\productcomments\productcomments.tpl:155</note>
+      </trans-unit>
+      <trans-unit id="fbe2625bf3673be380d043a4bf873f28">
+        <source>Be the first to write your review</source>
+        <target>Be the first to write your review</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\productcomments\productcomments.tpl:173</note>
+      </trans-unit>
+      <trans-unit id="08c7d6f84301ee7d0aab0a5f67edc419">
+        <source>No customer reviews for the moment.</source>
+        <target>No customer reviews for the moment.</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\productcomments\productcomments.tpl:176</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\productcomments\productcomments_reviews.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="f686baf0c5afd50aa39a24dd13136b40">
+        <source><![CDATA[printf('%s Review(s)',$_smarty_tpl->tpl_vars['nbComments']->value]]></source>
+        <target><![CDATA[printf('%s Review(s)',$_smarty_tpl->tpl_vars['nbComments']->value]]></target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\productcomments\productcomments_reviews.tpl:21</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartbloghomelatestnews\views\templates\front\smartblog_latest_news5.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="8413c683b4b27cc3f4dbd4c90329d8ba">
+        <source>Comments</source>
+        <target>Comments</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartbloghomelatestnews\views\templates\front\smartblog_latest_news5.tpl:46</note>
+      </trans-unit>
+      <trans-unit id="0be8406951cdfda82f00f79328cf4efc">
+        <source>Comment</source>
+        <target>Comment</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartbloghomelatestnews\views\templates\front\smartblog_latest_news5.tpl:48</note>
+      </trans-unit>
+      <trans-unit id="43340e6cc4e88197d57f8d6d5ea50a46">
+        <source>Read more</source>
+        <target>Read more</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartbloghomelatestnews\views\templates\front\smartblog_latest_news5.tpl:60</note>
+      </trans-unit>
+      <trans-unit id="ed4832a84ee072b00a6740f657183598">
+        <source>Views</source>
+        <target>Views</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartbloghomelatestnews\views\templates\front\smartblog_latest_news5.tpl:40</note>
+      </trans-unit>
+      <trans-unit id="4351cfebe4b61d8aa5efa1d020710005">
+        <source>View</source>
+        <target>View</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartbloghomelatestnews\views\templates\front\smartblog_latest_news5.tpl:40</note>
+      </trans-unit>
+      <trans-unit id="c4a28abdb348f5d92111c0afcecb1f08">
+        <source>From The Blog</source>
+        <target>From The Blog</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartbloghomelatestnews\views\templates\front\smartblog_latest_news5.tpl:3</note>
+      </trans-unit>
+      <trans-unit id="431a30a960d492c3b84f8ddcdf873144">
+        <source>Featured collections created and curated by our editors.</source>
+        <target>Featured collections created and curated by our editors.</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartbloghomelatestnews\views\templates\front\smartblog_latest_news5.tpl:5</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\productcomments\products-comparison.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="b1897515d548a960afe49ecf66a29021">
+        <source>Average</source>
+        <target>Average</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\productcomments\products-comparison.tpl:43</note>
+      </trans-unit>
+      <trans-unit id="bc976f6c3405523cde61f63a7cbe224b">
+        <source>view comments</source>
+        <target>view comments</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\productcomments\products-comparison.tpl:62</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartblogcategories\views\templates\front\smartblogcategories.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="af1b98adf7f686b84cd0b443e022b7a0">
+        <source>Categories</source>
+        <target>Categories</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartblogcategories\views\templates\front\smartblogcategories.tpl:3</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\ps_contactinfo\ps_contactinfo.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="3aea774cdcd8f2c45549f10758a71323">
+        <source>Store information</source>
+        <target>Información de la tienda</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\ps_contactinfo\ps_contactinfo.tpl:71</note>
+      </trans-unit>
+      <trans-unit id="c6359db4a43cb7267a84b389229fd073">
+        <source>Call us: [1]%phone%[/1]</source>
+        <target>Llámenos: [1]%phone%[/1]</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\ps_contactinfo\ps_contactinfo.tpl:33</note>
+      </trans-unit>
+      <trans-unit id="da6eb684bd77243a780629a180c9d19b">
+        <source>Fax: [1]%fax%[/1]</source>
+        <target>Fax: [1]%fax%[/1]</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\ps_contactinfo\ps_contactinfo.tpl:45</note>
+      </trans-unit>
+      <trans-unit id="077d21d48dae9586405c0d264f6d32e7">
+        <source>Email us: [1]%email%[/1]</source>
+        <target>Envíenos un correo electrónico: [1]%email%[/1]</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\ps_contactinfo\ps_contactinfo.tpl:58</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\ps_contactinfo\ps_contactinfo-rich.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="2bf1d5fae1c321d594fdedf05058f709">
+        <source>Address:</source>
+        <target>Address:</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\ps_contactinfo\ps_contactinfo-rich.tpl:30</note>
+      </trans-unit>
+      <trans-unit id="1300caaefd15b839f37952dc7cc75d82">
+        <source>Call us:</source>
+        <target>Llámenos:</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\ps_contactinfo\ps_contactinfo-rich.tpl:36</note>
+      </trans-unit>
+      <trans-unit id="0e2fb5b02182fd28b9b96e86ed27838f">
+        <source>Fax:</source>
+        <target>Fax:</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\ps_contactinfo\ps_contactinfo-rich.tpl:45</note>
+      </trans-unit>
+      <trans-unit id="a0bfe0853cf82bdf5dcb9b0bac76c357">
+        <source>Email us:</source>
+        <target>Envíenos un mensaje de correo electrónico:</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\ps_contactinfo\ps_contactinfo-rich.tpl:54</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spblockcurrency\spblockcurrency.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="77295c7d814e7397c55f64ec06313984">
+        <source>Currency:</source>
+        <target>Moneda:</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spblockcurrency\spblockcurrency.tpl:29</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\ps_currencyselector\ps_currencyselector.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="72d43a6525ac95e552ca4eaf1dc0ad1a">
+        <source>Currency dropdown</source>
+        <target>Selector desplegable de moneda</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\ps_currencyselector\ps_currencyselector.tpl:29</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\ps_emailsubscription\views\templates\hook\ps_emailsubscription.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="3805f49499fa5010c394e219aa1fe7a0">
+        <source>Get our latest news and special sales</source>
+        <target>Infórmese de nuestras últimas noticias y ofertas especiales</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\ps_emailsubscription\views\templates\hook\ps_emailsubscription.tpl:28</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\ps_imageslider\views\templates\hook\slider.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="6dbac206aa2d7e374277ae9ff8ec1987">
+        <source>Carousel buttons</source>
+        <target>Botones del carrusel</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\ps_imageslider\views\templates\hook\slider.tpl:45</note>
+      </trans-unit>
+      <trans-unit id="dd1f775e443ff3b9a89270713580a51b">
+        <source>Previous</source>
+        <target>Anterior</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\ps_imageslider\views\templates\hook\slider.tpl:50</note>
+      </trans-unit>
+      <trans-unit id="10ac3d04253ef7e1ddc73e6091c0cd55">
+        <source>Next</source>
+        <target>Siguiente</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\ps_imageslider\views\templates\hook\slider.tpl:56</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spblocklanguage\spblocklanguage.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="0885f0c211f74834f0109c5abaf4cdc4">
+        <source>Language:</source>
+        <target>Idioma:</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spblocklanguage\spblocklanguage.tpl:28</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\ps_languageselector\ps_languageselector.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="217148b9c333b63a3fb1883670f5bff2">
+        <source>Language dropdown</source>
+        <target>Selector desplegable de idioma</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\ps_languageselector\ps_languageselector.tpl:29</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartblog\views\templates\front\tagresult.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="5c109ac48b3cfcce1b09a084b7139ce1">
+        <source>All Blog News</source>
+        <target>All Blog News</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartblog\views\templates\front\tagresult.tpl:1</note>
+      </trans-unit>
+      <trans-unit id="3e0c1ff6070d2ad64af75e2f48170739">
+        <source>No Post in This Tag</source>
+        <target>No Post in This Tag</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartblog\views\templates\front\tagresult.tpl:6</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartblog\views\templates\front\archivecategory.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="468c8383d26ecb84b5f805435f401a8b">
+        <source>No Post in Archive</source>
+        <target>No Post in Archive</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartblog\views\templates\front\archivecategory.tpl:5</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartblog\views\templates\front\posts.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="ba280a9b71dfa9bc4fd987ea66295100">
+        <source>Comment(s)</source>
+        <target>Comment(s)</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartblog\views\templates\front\posts.tpl:61</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartblog\category_loop.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="14a327b10605f16f336e285a50fc471b">
+        <source>see more</source>
+        <target>see more</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartblog\category_loop.tpl:58</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartblog\views\templates\front\postcategory.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="98574c0a37f23fba0cb1f608c8a8f547">
+        <source>No Post in Category</source>
+        <target>No Post in Category</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartblog\views\templates\front\postcategory.tpl:11</note>
+      </trans-unit>
+      <trans-unit id="6cd5964b76612e3d3a9b8493b6d1ea1b">
+        <source>No Post in Blog</source>
+        <target>No Post in Blog</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartblog\views\templates\front\postcategory.tpl:13</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartblog\postcategory.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="b4e6101378d2a08d80df7e5da0625128">
+        <source>Showing</source>
+        <target>Showing</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartblog\postcategory.tpl:69</note>
+      </trans-unit>
+      <trans-unit id="01b6e20344b68835c5ed1ddedf20d531">
+        <source>to</source>
+        <target>to</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartblog\postcategory.tpl:69</note>
+      </trans-unit>
+      <trans-unit id="8bf8854bebe108183caeb845c7676ae4">
+        <source>of</source>
+        <target>of</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartblog\postcategory.tpl:69</note>
+      </trans-unit>
+      <trans-unit id="453aceb005ceaf54a47da15fee8b2a26">
+        <source>Pages</source>
+        <target>Pages</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartblog\postcategory.tpl:69</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartblog\posts.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="32b502f33a535f75dcbf63f6753c631e">
+        <source>Tags:</source>
+        <target>Tags:</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartblog\posts.tpl:36</note>
+      </trans-unit>
+      <trans-unit id="f386bccd2fe9a73a61bee9b9b414a61c">
+        <source> Comments</source>
+        <target> Comments</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartblog\posts.tpl:66</note>
+      </trans-unit>
+      <trans-unit id="c89e1920b54afafde8f1404cce8be849">
+        <source>LEAVE YOUR COMMENTS</source>
+        <target>LEAVE YOUR COMMENTS</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartblog\posts.tpl:85</note>
+      </trans-unit>
+      <trans-unit id="e13421de5802a6e8d3f81c35bc9855f8">
+        <source>Cancel Reply</source>
+        <target>Cancel Reply</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartblog\posts.tpl:87</note>
+      </trans-unit>
+      <trans-unit id="28657bdc3e58ba0b760e592246da7e70">
+        <source>Type Code</source>
+        <target>Type Code</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartblog\posts.tpl:105</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartblog\views\templates\front\search-not-found.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="c6d3b2e35e3cc80cca139f6698d94e48">
+        <source>Sorry, but nothing matched your search terms.</source>
+        <target>Sorry, but nothing matched your search terms.</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartblog\views\templates\front\search-not-found.tpl:5</note>
+      </trans-unit>
+      <trans-unit id="2bd4ce53155ef2501456e9c93fbaa679">
+        <source>Please try again with some different keywords.</source>
+        <target>Please try again with some different keywords.</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartblog\views\templates\front\search-not-found.tpl:8</note>
+      </trans-unit>
+      <trans-unit id="a60852f204ed8028c1c58808b746d115">
+        <source>Ok</source>
+        <target>Ok</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartblog\views\templates\front\search-not-found.tpl:18</note>
+      </trans-unit>
+      <trans-unit id="7b19b37e7fc3dfe3c3e1ad5b84c7f565">
+        <source>Home page</source>
+        <target>Home page</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartblog\views\templates\front\search-not-found.tpl:23</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartblog\views\templates\front\category_loop.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="decbe415d8accca7c2c16d48a79ee934">
+        <source>Read More</source>
+        <target>Read More</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartblog\views\templates\front\category_loop.tpl:81</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartblog\views\templates\front\comment_loop.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="25d8df6e580905091a0d5ef5b9e05bf0">
+        <source>Reply</source>
+        <target>Reply</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartblog\views\templates\front\comment_loop.tpl:14</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartbloghomelatestnews\views\templates\front\smartblog_latest_news2.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="70f8212af1afcd9601b199b6aa1542de">
+        <source>Lorem Ipsum is simply dummy text of the printing and typesetting industry Smartblog lastestnews.</source>
+        <target>Lorem Ipsum is simply dummy text of the printing and typesetting industry Smartblog lastestnews.</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartbloghomelatestnews\views\templates\front\smartblog_latest_news2.tpl:6</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartbloghomelatestnews\views\templates\front\smartblog_latest_news3.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="5356572b8480c4bc31b58b37d894fa31">
+        <source>OUR BLOGS</source>
+        <target>OUR BLOGS</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartbloghomelatestnews\views\templates\front\smartblog_latest_news3.tpl:4</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartbloghomelatestnews\views\templates\front\smartblog_latest_news4.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="ce65481c44629e855cf5cf5d767666bb">
+        <source>Latest Blog</source>
+        <target>Latest Blog</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartbloghomelatestnews\views\templates\front\smartblog_latest_news4.tpl:3</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartblogrecentposts\views\templates\front\smartblogrecentposts.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="39fd7f2ac3aad9fd0896bfeeb02fb267">
+        <source>Recent posts</source>
+        <target>Recent posts</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\smartblogrecentposts\views\templates\front\smartblogrecentposts.tpl:3</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spblocknewsletter\views\templates\hook\blocknewsletter.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="f78f7336bb2a309c9fff437d4c504331">
+        <source>Sign Up For Newsletter</source>
+        <target>Sign Up For Newsletter</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spblocknewsletter\views\templates\hook\blocknewsletter.tpl:27</note>
+      </trans-unit>
+      <trans-unit id="95060fdfadcc004eb2fb73c8cfc57232">
+        <source>Put your Email Address here</source>
+        <target>Put your Email Address here</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spblocknewsletter\views\templates\hook\blocknewsletter.tpl:30</note>
+      </trans-unit>
+      <trans-unit id="b26917587d98330d93f87808fc9d7267">
+        <source>Subscribe</source>
+        <target>Subscribe</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spblocknewsletter\views\templates\hook\blocknewsletter.tpl:32</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spblocknewsletter\views\templates\hook\blocknewsletter3.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="ffb7e666a70151215b4c55c6268d7d72">
+        <source>Newsletter</source>
+        <target>Newsletter</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spblocknewsletter\views\templates\hook\blocknewsletter3.tpl:27</note>
+      </trans-unit>
+      <trans-unit id="46c61a174c2dc99204521ca89f09f63c">
+        <source>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</source>
+        <target>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spblocknewsletter\views\templates\hook\blocknewsletter3.tpl:28</note>
+      </trans-unit>
+      <trans-unit id="6172ff25205c49016ab69283401cce6d">
+        <source>Enter your Email Address</source>
+        <target>Enter your Email Address</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spblocknewsletter\views\templates\hook\blocknewsletter3.tpl:31</note>
+      </trans-unit>
+      <trans-unit id="5f075ae3e1f9d0382bb8c4632991f96f">
+        <source>Go</source>
+        <target>Go</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spblocknewsletter\views\templates\hook\blocknewsletter3.tpl:33</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spblocknewsletter\views\templates\hook\blocknewsletter4.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="9ccd6fa368c93f6b0ff2261856ffddf7">
+        <source>Join Us!</source>
+        <target>Join Us!</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spblocknewsletter\views\templates\hook\blocknewsletter4.tpl:27</note>
+      </trans-unit>
+      <trans-unit id="2a709780f48756b186e57cce880e3b47">
+        <source>Become a Revo and enjoy an extra 60 off your first order!</source>
+        <target>Become a Revo and enjoy an extra 60 off your first order!</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spblocknewsletter\views\templates\hook\blocknewsletter4.tpl:28</note>
+      </trans-unit>
+      <trans-unit id="0879300c429c6fd85dae81b3ca77c48c">
+        <source>Enter your email here</source>
+        <target>Enter your email here</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spblocknewsletter\views\templates\hook\blocknewsletter4.tpl:31</note>
+      </trans-unit>
+      <trans-unit id="d67850bd126f070221dcfd5fa6317043">
+        <source>Sign Up</source>
+        <target>Sign Up</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spblocknewsletter\views\templates\hook\blocknewsletter4.tpl:33</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spblocknewsletter\views\templates\hook\blocknewsletterpopup.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="ba73f83c1a946b252ba5cac286c59d24">
+        <source>join our newsletter</source>
+        <target>join our newsletter</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spblocknewsletter\views\templates\hook\blocknewsletterpopup.tpl:31</note>
+      </trans-unit>
+      <trans-unit id="17d47622730a1587b21f4b3267dc391c">
+        <source>Subscribe now to get</source>
+        <target>Subscribe now to get</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spblocknewsletter\views\templates\hook\blocknewsletterpopup.tpl:33</note>
+      </trans-unit>
+      <trans-unit id="8a6b53c1b24898257df4d567d34adc8a">
+        <source>40%</source>
+        <target>40%</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spblocknewsletter\views\templates\hook\blocknewsletterpopup.tpl:34</note>
+      </trans-unit>
+      <trans-unit id="d89255f04f9da3c15a76607a0b7073f0">
+        <source>off on any product!</source>
+        <target>off on any product!</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spblocknewsletter\views\templates\hook\blocknewsletterpopup.tpl:35</note>
+      </trans-unit>
+      <trans-unit id="06d92aa68d32bc37f0f1f54c8a542564">
+        <source>Sign up for your email ...</source>
+        <target>Sign up for your email ...</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spblocknewsletter\views\templates\hook\blocknewsletterpopup.tpl:39</note>
+      </trans-unit>
+      <trans-unit id="a87408b0f38547f2a6eefaca4049b18f">
+        <source>Do not show this popup again</source>
+        <target>Do not show this popup again</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spblocknewsletter\views\templates\hook\blocknewsletterpopup.tpl:49</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spdeal\views\templates\hook\default3.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="03727ac48595a24daed975559c944a44">
+        <source>Day</source>
+        <target>Day</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spdeal\views\templates\hook\default3.tpl:101</note>
+      </trans-unit>
+      <trans-unit id="e807d3ccf8d24c8c1a3d86db5da78da8">
+        <source>Days</source>
+        <target>Days</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spdeal\views\templates\hook\default3.tpl:101</note>
+      </trans-unit>
+      <trans-unit id="b55e509c697e4cca0e1d160a7806698f">
+        <source>Hour</source>
+        <target>Hour</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spdeal\views\templates\hook\default3.tpl:101</note>
+      </trans-unit>
+      <trans-unit id="6a7e73161603d87b26a8eac49dab0a9c">
+        <source>Hours</source>
+        <target>Hours</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spdeal\views\templates\hook\default3.tpl:101</note>
+      </trans-unit>
+      <trans-unit id="78d811e98514cd165dda532286610fd2">
+        <source>Min</source>
+        <target>Min</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spdeal\views\templates\hook\default3.tpl:101</note>
+      </trans-unit>
+      <trans-unit id="64ec4942ef3d579aecd73175e8ff1885">
+        <source>Mins</source>
+        <target>Mins</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spdeal\views\templates\hook\default3.tpl:101</note>
+      </trans-unit>
+      <trans-unit id="2d5cc554c126edb041901fa7d79b558b">
+        <source>Sec</source>
+        <target>Sec</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spdeal\views\templates\hook\default3.tpl:101</note>
+      </trans-unit>
+      <trans-unit id="aa75f86227386200b4f644b6e4d456c0">
+        <source>Secs</source>
+        <target>Secs</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spdeal\views\templates\hook\default3.tpl:101</note>
+      </trans-unit>
+      <trans-unit id="610a838d4b1eca7ef4c16cd048d315d7">
+        <source>Hurry Up! Offer ends in:</source>
+        <target>Hurry Up! Offer ends in:</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spdeal\views\templates\hook\default3.tpl:102</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spmanufactureslider\views\templates\hook\default.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="34c1831fc481c9905114cbfd9187d3d3">
+        <source>Has no content to show!</source>
+        <target>Has no content to show!</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spmanufactureslider\views\templates\hook\default.tpl:72</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spinstagramgallery\views\templates\hook\default_2.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="c0f42d050ce844290058dcd3f54bbdff">
+        <source>Has no content to show! In Module Sp Instagram Gallery</source>
+        <target>Has no content to show! In Module Sp Instagram Gallery</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spinstagramgallery\views\templates\hook\default_2.tpl:86</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\splistingtabs\views\templates\hook\default_items6.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="c91e4ee170226d66e90f99ba917e4c20">
+        <source>Quick view</source>
+        <target>Quick view</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\splistingtabs\views\templates\hook\default_items6.tpl:58</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spmegamenu\views\templates\hook\spmegamenu.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="b61541208db7fa7dba42c85224405911">
+        <source>Menu</source>
+        <target>Menu</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spmegamenu\views\templates\hook\spmegamenu.tpl:20</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\customer\_partials\my-account-links.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="8cf04a9734132302f96da8e113e80ce5">
+        <source>Home</source>
+        <target>Inicio</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\customer\_partials\my-account-links.tpl:32</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spsearchpro\views\templates\hook\default2.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="a6a2a55bea8760389dfca77132905b7c">
+        <source>All Categories</source>
+        <target>All Categories</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spsearchpro\views\templates\hook\default2.tpl:69</note>
+      </trans-unit>
+      <trans-unit id="13348442cc6a27032d2b4aa28b75a5d3">
+        <source>Search</source>
+        <target>Search</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spsearchpro\views\templates\hook\default2.tpl:84</note>
+      </trans-unit>
+      <trans-unit id="19c77ee3972d8aafde50bd39b3188aff">
+        <source>Has no content to show! In Module SP Search Pro</source>
+        <target>Has no content to show! In Module SP Search Pro</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spsearchpro\views\templates\hook\default2.tpl:93</note>
+      </trans-unit>
+      <trans-unit id="2a37324bb4c331c859044121df3f576b">
+        <source>Search...</source>
+        <target>Search...</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spsearchpro\views\templates\hook\default2.tpl:83</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spsearchpro\views\templates\hook\default.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="84d8c464b716f03ee45367ac5717cb0c">
+        <source>Search entire store here...</source>
+        <target>Search entire store here...</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spsearchpro\views\templates\hook\default.tpl:81</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spsupercategory\views\templates\hook\default_2.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="2e0f024f471dbb785a88627a3b28fa47">
+        <source>Has no content to show in module Sp Super Category !</source>
+        <target>Has no content to show in module Sp Super Category !</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spsupercategory\views\templates\hook\default_2.tpl:112</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spsupercategory\views\templates\hook\default_items_2.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="638f592f71fc3fac3351534e69f9d29f">
+        <source>Add to Cart</source>
+        <target>Add to Cart</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spsupercategory\views\templates\hook\default_items_2.tpl:113</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spthemeconfigurator\views\templates\hook\displayContact.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="dbeeb228eb563f7a3a2ca81b253dc50f">
+        <source>Contact Info</source>
+        <target>Contact Info</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spthemeconfigurator\views\templates\hook\displayContact.tpl:2</note>
+      </trans-unit>
+      <trans-unit id="0fc11ac6e1975d7f34721197a2f1c9fb">
+        <source>Address : </source>
+        <target>Address : </target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spthemeconfigurator\views\templates\hook\displayContact.tpl:12</note>
+      </trans-unit>
+      <trans-unit id="3e948df59db3b59a6aa90d8b99f2e620">
+        <source>Email: </source>
+        <target>Email: </target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spthemeconfigurator\views\templates\hook\displayContact.tpl:19</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spthemeconfigurator\views\templates\hook\displaySocial.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="d918f99442796e88b6fe5ad32c217f76">
+        <source>Follow us</source>
+        <target>Follow us</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spthemeconfigurator\views\templates\hook\displaySocial.tpl:4</note>
+      </trans-unit>
+      <trans-unit id="d85544fce402c7a2a96a48078edaf203">
+        <source>Facebook</source>
+        <target>Facebook</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spthemeconfigurator\views\templates\hook\displaySocial.tpl:8</note>
+      </trans-unit>
+      <trans-unit id="2491bc9c7d8731e1ae33124093bc7026">
+        <source>Twitter</source>
+        <target>Twitter</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spthemeconfigurator\views\templates\hook\displaySocial.tpl:14</note>
+      </trans-unit>
+      <trans-unit id="a1d7d2089dfd98072df7c45b07f9a89c">
+        <source>Google +</source>
+        <target>Google +</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spthemeconfigurator\views\templates\hook\displaySocial.tpl:20</note>
+      </trans-unit>
+      <trans-unit id="55f015a0c5605702f913536afe70cfb0">
+        <source>Instagram</source>
+        <target>Instagram</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spthemeconfigurator\views\templates\hook\displaySocial.tpl:27</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spverticalmenu\views\templates\hook\spverticalmenu3.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="86f847149d50dca2220a90392cc3a237">
+        <source>More Categories</source>
+        <target>More Categories</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spverticalmenu\views\templates\hook\spverticalmenu3.tpl:68</note>
+      </trans-unit>
+      <trans-unit id="129aec4f97a6faced293912900f8c399">
+        <source>Close Menu</source>
+        <target>Close Menu</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\spverticalmenu\views\templates\hook\spverticalmenu3.tpl:76</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\catalog\listing\product-list.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="5c9838becf9bbce28ba90a7426daf171">
+        <source>There are no products.</source>
+        <target>There are no products.</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\catalog\listing\product-list.tpl:63</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\catalog\_partials\active_filters.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="2143f8cb66482342b35208bdc3fd949c">
+        <source>Active filters</source>
+        <target>Filtros activos</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\catalog\_partials\active_filters.tpl:27</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\catalog\_partials\facets.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="7a1c5301da6b1ce9e4345bd501397045">
+        <source>(no filter)</source>
+        <target>(sin filtro)</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\catalog\_partials\facets.tpl:133</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\catalog\_partials\sort-orders.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="6f9d01a14011f05fffe48559583fc609">
+        <source>Sort by:</source>
+        <target>Ordenar por:</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\catalog\_partials\sort-orders.tpl:26</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\_partials\footer.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="7601c8e861088bd27255e18afaefab6b">
+        <source>%copyright% %year% - Ecommerce software by %prestashop%</source>
+        <target>%copyright% %year% - Software Ecommerce desarrollado por %prestashop%</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\_partials\footer.tpl:49</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\checkout\_partials\header.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="96d6f2e7e1f705ab5e59c84a6dc009b2">
+        <source>logo</source>
+        <target>logotipo</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\checkout\_partials\header.tpl:32</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\checkout\_partials\steps\payment.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="d3d2e617335f08df83599665eef8a418">
+        <source>Close</source>
+        <target>Cerrar</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\checkout\_partials\steps\payment.tpl:151</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\cms\category.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="6c5c05a5b907385c60c3baa4087ea1a1">
+        <source>List of sub categories in %name%:</source>
+        <target>Listado de subcategorías en %name%:</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\cms\category.tpl:34</note>
+      </trans-unit>
+      <trans-unit id="51af726259b3283f6b53613165f95697">
+        <source>List of pages in %name%:</source>
+        <target>List of pages in %name%:</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\cms\category.tpl:45</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\cms\sitemap.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="5813ce0ec7196c492c97596718f71969">
+        <source>Sitemap</source>
+        <target>Mapa del sitio</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\cms\sitemap.tpl:28</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\cms\stores.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="34c869c542dee932ef8cd96d2f91cae6">
+        <source>Our stores</source>
+        <target>Nuestras tiendas</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\cms\stores.tpl:28</note>
+      </trans-unit>
+      <trans-unit id="adc4f9f9cccaa450c10977d50da58d8d">
+        <source>About and Contact</source>
+        <target>Acerca de y Contacto</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\cms\stores.tpl:44</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\customer\order-detail.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="44749712dbec183e983dcd78a7736c41">
+        <source>Date</source>
+        <target>Fecha</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\customer\order-detail.tpl:188</note>
+      </trans-unit>
+      <trans-unit id="ec53a8c4f07baed5d8825072c89799be">
+        <source>Status</source>
+        <target>Estado</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\customer\order-detail.tpl:89</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\errors\maintenance.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="27b4383b976d6be981598d457cc7e62d">
+        <source>We'll be back soon.</source>
+        <target>Estaremos de vuelta en breve.</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\errors\maintenance.tpl:42</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\errors\not-found.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="7e74146e0ff2e289abfc8bec1d2b2a18">
+        <source>Sorry for the inconvenience.</source>
+        <target>Lamentamos las molestias.</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\errors\not-found.tpl:28</note>
+      </trans-unit>
+      <trans-unit id="519ee4cd58a2b719f7113965cc949d24">
+        <source>Search again what you are looking for</source>
+        <target>Realice una nueva búsqueda sobre su interés</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\errors\not-found.tpl:29</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\errors\restricted-country.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="6351030f724f6f42fd11ec9aa6ee8c76">
+        <source>403 Forbidden</source>
+        <target>403 Acceso Denegado</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\errors\restricted-country.tpl:43</note>
+      </trans-unit>
+      <trans-unit id="cf8092a0be7b972d6cee3db90bfaf923">
+        <source>You cannot access this store from your country. We apologize for the inconvenience.</source>
+        <target>No puede acceder a nuestra tienda desde su país. Sentimos los inconvenientes.</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\errors\restricted-country.tpl:44</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\_partials\header\login_myaccount_header.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="c1a5298f939e87e8f962a5edfc206918">
+        <source>Hi</source>
+        <target>Hi</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\_partials\header\login_myaccount_header.tpl:5</note>
+      </trans-unit>
+      <trans-unit id="0323de4f66a1700e2173e9bcdce02715">
+        <source>Logout</source>
+        <target>Logout</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\_partials\header\login_myaccount_header.tpl:11</note>
+      </trans-unit>
+      <trans-unit id="a8d2a21438623603c4e0e47df527be62">
+        <source>Default welcome msg!</source>
+        <target>Default welcome msg!</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\_partials\header\login_myaccount_header.tpl:15</note>
+      </trans-unit>
+      <trans-unit id="75f10d8da8b444160e004775fd768fde">
+        <source>Join Free</source>
+        <target>Join Free</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\_partials\header\login_myaccount_header.tpl:18</note>
+      </trans-unit>
+      <trans-unit id="f2fdea440d768b85591e936a803c3631">
+        <source>Sign In</source>
+        <target>Sign In</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\_partials\header\login_myaccount_header.tpl:24</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\_partials\header\myaccount_mobile.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="d4151a9a3959bdd43690735737034f27">
+        <source>Log in to your customer account</source>
+        <target>Log in to your customer account</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\_partials\header\myaccount_mobile.tpl:18</note>
+      </trans-unit>
+      <trans-unit id="b6d4223e60986fa4c9af77ee5f7149c5">
+        <source>Sign in</source>
+        <target>Sign in</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\_partials\header\myaccount_mobile.tpl:24</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

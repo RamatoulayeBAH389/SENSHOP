@@ -1,0 +1,516 @@
+
+/*******************************************************
+  SP FooterLinks Module Style
+********************************************************/
+
+.content-v8 .instargram {
+    margin: 0 0 80px;
+}
+
+.content-v8 .instargram .ig-title-module{
+    font-size: 16px;
+    font-weight: 700;
+    color: #222;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 0 0 7px;
+}
+
+.content-v8 .instargram .footer-social{
+    width: 100%;
+    text-align: center;
+    margin: 0 0 10px;
+}
+
+.content-v8 .instargram .footer-social h3.block-title{
+    display: none;
+}
+
+.content-v8 .instargram .footer-social a .fa{
+    background: transparent;
+    width: 30px;
+    margin: 0;
+}
+
+.content-v8 .instargram .footer-social a .fa:hover{
+  background: transparent;
+}
+
+
+.content-v8 .sp-instagram-gallery{
+    padding: 0 70px;
+}
+
+.content-v8 .instargram{
+    margin: 0 -70px 80px;
+}
+
+.content-v8 div.instargram .spinstagramgallery-carousel .owl-stage-outer{
+  overflow: hidden;
+}
+
+.content-v8 .instargram .spinstagramgallery-carousel {
+  overflow: visible;
+}
+
+.content-v8 .instargram .sp-instagram-gallery .owl-controls .owl-nav div.owl-prev{
+    left: -62px;
+}
+
+.content-v8 .instargram .sp-instagram-gallery .owl-controls .owl-nav div.owl-next{
+    right: -62px;
+}
+
+/********************************************************/
+
+div.instargram {
+  margin: 0 0 10px; }
+  div.instargram h3.title {
+    color: #fff;
+    font-weight: 400;
+    font-size: 16px;
+    text-transform: uppercase;
+    margin: 0 0 55px;
+    position: relative; }
+    div.instargram h3.title:before, div.instargram h3.title:after {
+      content: "";
+      background: #393939;
+      position: absolute;
+      right: auto;
+      width: 22px;
+      height: 1px; }
+    div.instargram h3.title:before {
+      left: 0%;
+      bottom: -20px; }
+    div.instargram h3.title:after {
+      left: 10px;
+      bottom: -23px; }
+  div.instargram .spinstagramgallery-carousel .owl-stage-outer {
+    direction: ltr; }
+  div.instargram .spinstagramgallery-carousel .spinstagramgallery-item {
+    position: relative; }
+    div.instargram .spinstagramgallery-carousel .spinstagramgallery-item:after {
+      content: "\f16d";
+      font-family: fontawesome;
+      font-size: 24px;
+      color: #fff;
+      position: absolute;
+      left: auto;
+      right: 15px;
+      top: 15px;
+      bottom: auto; }
+    div.instargram .spinstagramgallery-carousel .spinstagramgallery-item img {
+      padding: 0; }
+    div.instargram .spinstagramgallery-carousel .spinstagramgallery-item:hover img {
+      opacity: 0.8; }
+
+.content-v4 div.instargram {
+  margin: 0 0 70px; }
+.content-v5 div.instargram{
+	margin:0;
+}
+.sp-instagram-gallery {
+  width: 100%;
+  display: block;
+  overflow: hidden;
+  padding-top: 5px; }
+
+.sp-instagram-gallery .ig-wrap {
+  width: 100%;
+  display: block;
+  overflow: hidden; }
+
+.sp-instagram-gallery .ig-wrap .ig-items {
+  width: 100%;
+  display: block;
+  overflow: hidden; }
+
+.sp-instagram-gallery .ig-wrap .ig-items ul {
+  width: 100%;
+  display: block;
+  overflow: hidden; }
+
+.sp-instagram-gallery .ig-wrap .ig-items ul li {
+  float: left;
+  overflow: hidden;
+  padding: 5px;
+  list-style-type: none; }
+
+.sp-instagram-gallery .ig-wrap .ig-items ul li img {
+  width: 100%; }
+
+.sp-instagram-gallery .ig-wrap .ig-items ul li img:hover {
+  opacity: 0.7;
+  filter: alpha(opacity=70); }
+
+.lang_ar .sp-instagram-gallery .ig-wrap .ig-items ul li {
+  float: right; }
+
+.sp-instagram-gallery.msie .ig-title-module {
+  color: red; }
+
+/*############################################### css for botton #################################################*/
+.sp-instagram-gallery .owl-controls .owl-nav div.owl-prev, .sp-instagram-gallery .owl-controls .owl-nav div.owl-next {
+    font-size: 16px;
+    border-radius: 50%;
+    color: #e8e8e8;
+    text-align: center;
+    margin: 0;
+    cursor: pointer;
+    display: inline-block;
+    transition: 0.3s all ease 0s;
+    position: absolute;
+    z-index: 2;
+    width: 41px;
+    height: 41px;
+    background: #d3d3d3;
+    line-height: 41px;
+    top: 40%;
+    border: none;
+}
+
+.sp-instagram-gallery .owl-controls .owl-nav div:hover {
+  background: #666666;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.sp-instagram-gallery .owl-controls .owl-nav div.owl-prev {
+  left: 10px;
+}
+
+.sp-instagram-gallery .owl-controls .owl-nav div.owl-next {
+  right: 10px;
+  left: auto;
+}
+
+#left_column .sp-instagram-gallery .owl-controls .owl-nav div, #right_column .sp-instagram-gallery .owl-controls .owl-nav div {
+  width: 30px;
+  height: 30px;
+  bottom: 25%;
+  border: none; }
+
+#left_column .sp-instagram-gallery .owl-controls .owl-nav div:before, #right_column .sp-instagram-gallery .owl-controls .owl-nav div:before {
+  height: 28px;
+  width: 28px; }
+
+#left_column .sp-instagram-gallery .owl-controls .owl-nav div:after, #right_column .sp-instagram-gallery .owl-controls .owl-nav div:after {
+  height: 28px;
+  width: 28px;
+  padding: 5px 0 0 0; }
+
+/*-----------------------------Css for Responsive ----------------------*/
+@media all and (max-width: 479px) {
+  .sp-instagram-gallery .ig-wrap .ig04-6 ul li {
+    width: 16.64%; }
+
+  .sp-instagram-gallery .ig-wrap .ig04-5 ul li {
+    width: 19.958%; }
+
+  .sp-instagram-gallery .ig-wrap .ig04-4 ul li {
+    width: 24.995%; }
+
+  .sp-instagram-gallery .ig-wrap .ig04-3 ul li {
+    width: 33.315%; }
+
+  .sp-instagram-gallery .ig-wrap .ig04-2 ul li {
+    width: 49.985%; }
+
+  .sp-instagram-gallery .ig-wrap .ig04-1 ul li {
+    width: 100%; } }
+@media all and (min-width: 480px) and (max-width: 767px) {
+  .sp-instagram-gallery .ig-wrap .ig03-6 ul li {
+    width: 16.64%; }
+
+  .sp-instagram-gallery .ig-wrap .ig03-5 ul li {
+    width: 19.958%; }
+
+  .sp-instagram-gallery .ig-wrap .ig03-4 ul li {
+    width: 24.995%; }
+
+  .sp-instagram-gallery .ig-wrap .ig03-3 ul li {
+    width: 33.295%; }
+
+  .sp-instagram-gallery .ig-wrap .ig03-2 ul li {
+    width: 49.999%; }
+
+  .sp-instagram-gallery .ig-wrap .ig03-1 ul li {
+    width: 100%; } }
+@media all and (min-width: 768px) and (max-width: 1199px) {
+  .sp-instagram-gallery .ig-wrap .ig02-6 ul li {
+    width: 16.64%; }
+
+  .sp-instagram-gallery .ig-wrap .ig02-5 ul li {
+    width: 19.958%; }
+
+  .sp-instagram-gallery .ig-wrap .ig02-4 ul li {
+    width: 24.995%; }
+
+  .sp-instagram-gallery .ig-wrap .ig02-3 ul li {
+    width: 33.315%; }
+
+  .sp-instagram-gallery .ig-wrap .ig02-2 ul li {
+    width: 49.999%; }
+
+  .sp-instagram-gallery .ig-wrap .ig02-1 ul li {
+    width: 100%; } }
+@media all and (min-width: 1200px) {
+  .sp-instagram-gallery .ig-wrap .ig01-6 ul li {
+    width: 16.64%; }
+
+  .sp-instagram-gallery .ig-wrap .ig01-5 ul li {
+    width: 20%; }
+
+  .sp-instagram-gallery .ig-wrap .ig01-4 ul li {
+    width: 25%; }
+
+  .sp-instagram-gallery .ig-wrap .ig01-3 ul li {
+    width: 33.315%; }
+
+  .sp-instagram-gallery .ig-wrap .ig01-2 ul li {
+    width: 49.999%; }
+
+  .sp-instagram-gallery .ig-wrap .ig01-1 ul li {
+    width: 100%; } }
+/* 
+ *  Owl Carousel - Animate Plugin
+ */
+.spinstagramgallery-carousel .animated {
+    -webkit-animation-duration: 1000ms;
+    animation-duration: 1000ms;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+}
+
+.spinstagramgallery-carousel .spinstagramgallery-animated-in {
+    z-index: 0;
+}
+
+.spinstagramgallery-carousel .spinstagramgallery-animated-out {
+    z-index: 1;
+}
+
+.spinstagramgallery-carousel .fadeOut {
+    -webkit-animation-name: fadeOut;
+    animation-name: fadeOut;
+}
+
+@-webkit-keyframes fadeOut {
+    0% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+@keyframes fadeOut {
+    0% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+/* 
+ * 	spinstagramgallery Carousel - Auto Height Plugin
+ */
+.spinstagramgallery-height {
+    -webkit-transition: height 500ms ease-in-out;
+    -moz-transition: height 500ms ease-in-out;
+    -ms-transition: height 500ms ease-in-out;
+    -o-transition: height 500ms ease-in-out;
+    transition: height 500ms ease-in-out;
+}
+
+/* 
+ *  Core spinstagramgallery Carousel CSS File
+ */
+.spinstagramgallery-carousel {
+    /*display: none;*/
+    width: 100%;
+    -webkit-tap-highlight-color: transparent;
+    /* position relative and z-index fix webkit rendering fonts issue */
+    position: relative;
+    z-index: 1;
+	overflow:hidden;
+}
+
+.spinstagramgallery-carousel .spinstagramgallery-stage {
+    position: relative;
+    -ms-touch-action: pan-Y;
+}
+
+.spinstagramgallery-carousel .spinstagramgallery-stage:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+}
+
+.spinstagramgallery-carousel .spinstagramgallery-stage-outer {
+    position: relative;
+    overflow: hidden;
+    /* fix for flashing background */
+    -webkit-transform: translate3d(0px, 0px, 0px);
+}
+
+.spinstagramgallery-carousel .spinstagramgallery-controls .spinstagramgallery-nav .spinstagramgallery-prev,
+.spinstagramgallery-carousel .spinstagramgallery-controls .spinstagramgallery-nav .spinstagramgallery-next,
+.spinstagramgallery-carousel .spinstagramgallery-controls .spinstagramgallery-dot {
+    cursor: pointer;
+    cursor: hand;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.spinstagramgallery-carousel.spinstagramgallery-loaded {
+    display: block;
+}
+
+.spinstagramgallery-carousel.spinstagramgallery-loading {
+    opacity: 0;
+    display: block;
+}
+
+.spinstagramgallery-carousel.spinstagramgallery-hidden {
+    opacity: 0;
+}
+
+.spinstagramgallery-carousel .spinstagramgallery-refresh .spinstagramgallery-item {
+    /*display: none;*/
+}
+
+.spinstagramgallery-carousel .spinstagramgallery-item {
+    position: relative;
+    min-height: 1px;
+    float: left;
+    -webkit-backface-visibility: hidden;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.spinstagramgallery-carousel .spinstagramgallery-item img {
+    display: block;
+    width: 100%;
+	padding:2px;
+    /** -webkit-transform-style: preserve-3d; **/ 
+}
+
+.spinstagramgallery-carousel.spinstagramgallery-text-select-on .spinstagramgallery-item {
+    -webkit-user-select: auto;
+    -moz-user-select: auto;
+    -ms-user-select: auto;
+    user-select: auto;
+}
+
+.spinstagramgallery-carousel .spinstagramgallery-grab {
+    cursor: move;
+    cursor: -webkit-grab;
+    cursor: -o-grab;
+    cursor: -ms-grab;
+    cursor: grab;
+}
+
+.spinstagramgallery-carousel.spinstagramgallery-rtl {
+    direction: rtl;
+}
+
+.spinstagramgallery-carousel.spinstagramgallery-rtl .spinstagramgallery-item {
+    float: right;
+}
+
+/* No Js */
+.no-js .spinstagramgallery-carousel {
+    display: block;
+}
+
+/* 
+ * 	spinstagramgallery Carousel - Lazy Load Plugin
+ */
+.spinstagramgallery-carousel .spinstagramgallery-item .spinstagramgallery-lazy {
+    opacity: 0;
+    -webkit-transition: opacity 400ms ease;
+    -moz-transition: opacity 400ms ease;
+    -ms-transition: opacity 400ms ease;
+    -o-transition: opacity 400ms ease;
+    transition: opacity 400ms ease;
+}
+
+/* 
+ * 	spinstagramgallery Carousel - Video Plugin
+ */
+.spinstagramgallery-carousel .spinstagramgallery-video-wrapper {
+    position: relative;
+    height: 100%;
+    background: #000;
+}
+
+.spinstagramgallery-carousel .spinstagramgallery-video-play-icon {
+    position: absolute;
+    height: 80px;
+    width: 80px;
+    left: 50%;
+    top: 50%;
+    margin-left: -40px;
+    margin-top: -40px;
+    background: url("spinstagramgallery.video.play.png") no-repeat;
+    cursor: pointer;
+    z-index: 1;
+    -webkit-backface-visibility: hidden;
+    -webkit-transition: scale 100ms ease;
+    -moz-transition: scale 100ms ease;
+    -ms-transition: scale 100ms ease;
+    -o-transition: scale 100ms ease;
+    transition: scale 100ms ease;
+}
+
+.spinstagramgallery-carousel .spinstagramgallery-video-play-icon:hover {
+    -webkit-transition: scale(1.3, 1.3);
+    -moz-transition: scale(1.3, 1.3);
+    -ms-transition: scale(1.3, 1.3);
+    -o-transition: scale(1.3, 1.3);
+    transition: scale(1.3, 1.3);
+}
+
+.spinstagramgallery-carousel .spinstagramgallery-video-playing .spinstagramgallery-video-tn,
+.spinstagramgallery-carousel .spinstagramgallery-video-playing .spinstagramgallery-video-play-icon {
+    /*display: none;*/
+}
+
+.spinstagramgallery-carousel .spinstagramgallery-video-tn {
+    opacity: 0;
+    height: 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+    -webkit-transition: opacity 400ms ease;
+    -moz-transition: opacity 400ms ease;
+    -ms-transition: opacity 400ms ease;
+    -o-transition: opacity 400ms ease;
+    transition: opacity 400ms ease;
+}
+
+.spinstagramgallery-carousel .spinstagramgallery-video-frame {
+    position: relative;
+    z-index: 1;
+}
+.spinstagramgallery-carousel .spinstagramgallery-item:last-child {
+    display: none;
+}
+/*# sourceMappingURL=img_stagram.css.map */

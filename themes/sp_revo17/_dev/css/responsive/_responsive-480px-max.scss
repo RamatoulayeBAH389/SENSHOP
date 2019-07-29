@@ -1,0 +1,83 @@
+
+/* 5.Small devices Phones
+================================================== */
+@media (max-width: 480px){
+	
+	//-- Button Style
+	.btn, button, .button, input.button_mini,
+	input.button_small, input.button, input.button_large,
+	input.button_mini_disabled, input.button_small_disabled,
+	input.button_disabled, input.button_large_disabled,
+	input.exclusive_mini, input.exclusive_small,
+	input.exclusive, input.exclusive_large,
+	input.exclusive_mini_disabled, input.exclusive_small_disabled,
+	input.exclusive_disabled, input.exclusive_large_disabled,
+	a.button_mini, a.button_small, a.button, a.button_large, 
+	a.exclusive_mini, a.exclusive_small, a.exclusive, a.exclusive_large,
+	span.button_mini, span.button_small, span.button,
+	span.button_large, span.exclusive_mini,
+	span.exclusive_small, span.exclusive, span.exclusive_large,
+	span.exclusive_large_disabled {padding: 7px 10px;}
+	
+	
+	//-- Category Product
+	.category-products h3.title-block{
+		font-size: 24px;
+	}
+	
+	.product-page{
+		.product-page .tabs .nav-tabs li.nav-item{width: 100%;	}
+		.social-sharing li{
+			margin: 0 0 0 18px;
+		}
+	}
+	
+	//-- Block Cart
+	div.spblockcart .cart-icon{
+		margin: 0;
+	}
+	
+	.header_v7 .box-left{
+		text-align: center;
+	}
+
+	//RTL LANGUAGE
+	.lang-rtl {
+		.product-page{
+			.social-sharing li{
+				margin: 0 18px 0 0;
+			}
+		}
+	}
+}
+
+@media (max-width: 479px){
+	div div.slider-container{
+		width: 100%;
+		float: none;
+	}
+	.splistingtab-layout5{
+		.sp-listing-tabs{
+			.ltabs-tabs-container {
+				text-align:center;
+				li.ltabs-tab > span{font-weight: normal;margin-bottom: 15px;}
+			}
+		}
+	}
+	.content-v6 {
+		div.sp-listing-tabs{    margin-top: 15px;
+			 .ltabs-wrap {
+				 .ltabs-tabs-container{text-align:center;}
+			 }
+		}
+		div.sp_listing_tab_4 .title-module-listingtab h3 span{    margin-bottom: 15px;}
+	}
+	
+	//--RTL
+	.lang-rtl{
+		div div.slider-container{
+			width: 100%;
+			float: none;
+		}
+	}
+}

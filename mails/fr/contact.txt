@@ -1,0 +1,17 @@
+{shop_url}
+
+Message de la part d'un client de {shop_name}
+
+Customer Email Address: {email}
+
+Order ID #:  {order_name}
+
+Pièce jointe : {attached_file}
+
+Message du client :
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](http://www.prestashop.com/)

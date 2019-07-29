@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\catalog\_partials\miniatures\grid-list.tpl" source-language="it-IT" target-language="it-IT" datatype="plaintext">
+    <body>
+      <trans-unit id="5174d1309f275ba6f275db3af9eb3e18">
+        <source>Grid</source>
+        <target>Grid</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\catalog\_partials\miniatures\grid-list.tpl:3</note>
+      </trans-unit>
+      <trans-unit id="4ee29ca12c7d126654bd0e5275de6135">
+        <source>List</source>
+        <target>List</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\catalog\_partials\miniatures\grid-list.tpl:10</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\_partials\footer\footer-v8.tpl" source-language="it-IT" target-language="it-IT" datatype="plaintext">
+    <body>
+      <trans-unit id="7c491b68fcdc8169f7aadfffbafaf47d">
+        <source>Back to top</source>
+        <target>Back to top</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\templates\_partials\footer\footer-v8.tpl:40</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

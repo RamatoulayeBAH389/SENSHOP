@@ -1,0 +1,271 @@
+
+
+#twitter-widget-0 .btn{
+	background: transparent;
+	font-size: 12px;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+
+.sp-twitter-slider {
+	background: #44ccf6;
+	text-align: center;
+	padding: 30px 0 0;
+	margin-bottom: 40px;
+}
+
+.sp-twitter-slider .owl-carousel .owl-dots {
+	display: block !important;
+    position: absolute;
+    bottom: 15px;
+    left: 20px;
+    width: auto;
+    text-align: center;
+    padding: 0;
+    right: 20px;
+}
+
+.sp-twitter-slider .owl-carousel .owl-dots .owl-dot {
+	display: inline-block;
+	float: none;
+	vertical-align: middle;
+}
+
+.sp-twitter-slider .owl-carousel .owl-dots .owl-dot span {
+	width: 8px;
+	height: 8px;
+	margin: 5px 3px;
+	opacity: 1;
+	border: none;
+	display: block;
+	background: rgba(255,255,255,0.5);
+	-webkit-backface-visibility: visible;
+	-webkit-transition: opacity 300ms ease;
+	-moz-transition: opacity 300ms ease;
+	-ms-transition: opacity 300ms ease;
+	-o-transition: opacity 300ms ease;
+	transition: opacity 300ms ease;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+}
+
+.sp-twitter-slider .owl-carousel .owl-dots .owl-dot.active span, .sphomepage-slider .owl-carousel .owl-dots .owl-dot:hover span {
+	background: rgba(255,255,255,1);
+}
+
+.sp-twitter-slider .list-item{
+	padding: 0 20px 54px;
+}
+
+.sp-twitter-slider a, .sp-twitter-slider p{
+	color: #fff;
+}
+
+.sp-twitter-slider .user{
+	margin-bottom: 55px;
+}
+
+.sp-twitter-slider .user a img{
+	width: 60px;
+	height: 60px;
+}
+
+.sp-twitter-slider .tweet{
+	max-height: 90px;
+	overflow: hidden;
+	margin: 0;
+}
+
+.sp-twitter-slider .timePosted{
+	font-size: 14px;
+	text-transform: uppercase;
+	position: absolute;
+    width: calc(100% - 40px);
+	left: 20px;
+	right: auto;
+	top: 80px;
+	bottom: auto;
+}
+
+.sp-twitter-slider img{
+	border-radius: 50%;
+}
+
+.sp-twitter-slider .user > div{
+	display: none;
+}
+
+.sp-twitter-slider .spts-btn-follow{
+	padding: 13px 0 11px;
+	border-top: 1px solid rgba(255,255,255,0.5);
+}
+
+.spfilter-products .title-module{
+	margin-bottom:15px;
+}
+
+.spfilter-products .product-miniature{
+	margin:0 .625rem;
+}
+
+.spfilter-products .products {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+}
+
+.spfilter-products .product-miniature .discount-percentage.discount-percentage {
+	z-index: 2;
+	background: #f39d72;
+	display: block;
+	position: absolute;
+	padding: .3125rem .4375rem;
+	color: #fff;
+	text-transform: uppercase;
+	min-width: 3.125rem;
+	min-height: 1.875rem;
+	font-size: 1rem;
+	font-weight: 600;
+	box-shadow: 2px 2px 4px 0 rgba(0,0,0,.2);
+}
+
+.spfilter-products  .product-countdown {
+	background: #2fb5d2 none repeat scroll 0 0;
+    color: #fff;
+    padding: 8px;
+    vertical-align: middle;
+	float:right;
+	margin-bottom:15px;
+	
+}
+
+.spfilter-products .spfp-products  .product-countdown {
+	position:absolute;
+	bottom:70px;
+	text-align:center;
+	font-size: 13px;
+	left:0;
+	right:0;	
+	float:none;
+	margin-bottom:0;
+}
+
+.spfilter-products   .product-countdown .clock-time {
+  display:inline-block;
+}
+
+.spfilter-products   .product-countdown .clock-time > span {
+  text-align: center;
+  display:inline-block;
+  line-height: 18px;
+  margin-right:5px;
+  padding-right:5px;
+  border-right:1px solid #FFF;
+}
+.spfilter-products .product-countdown .clock-time > span.sec {
+   border-right-color:transparent;
+   margin-right:0;
+   padding-right:0;
+}
+
+.spfilter-products .spfp-products .owl-nav {
+  margin-top: 10px;
+  text-align: center;
+  -webkit-tap-highlight-color: transparent; }
+ .spfilter-products .spfp-products .owl-nav [class*='owl-'] {
+    color: #FFF;
+    margin: 5px;
+    padding: 4px 7px;
+    background: #2fb5d2;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 3px;
+	width:30px;
+	height:30px;
+	position:absolute;
+	top:50%;
+	margin-top:-30px;
+	outline:none;
+}
+
+ .spfilter-products .spfp-products .owl-nav .owl-next{
+	 
+	 right:0;
+ }
+ 
+.spfilter-products .spfp-products .owl-nav button span{
+	font-size: 30px;
+	line-height: 16px;
+}
+.spfilter-products   .spfp-products .owl-nav [class*='owl-']:hover {
+      background: #869791;
+      color: #FFF;
+      text-decoration: none; 
+}
+
+.spfilter-products .spfp-products .owl-nav .disabled {
+    opacity: 0.5;
+    cursor: default; 
+}
+
+.spfilter-products .spfp-products .owl-nav.disabled + .owl-dots {
+  margin-top: 10px; 
+}
+
+.spfilter-products .spfp-products .owl-dots {
+  text-align: center;
+  -webkit-tap-highlight-color: transparent; 
+  margin:0 auto;
+}
+
+.spfilter-products .spfp-products .owl-dots .owl-dot {
+    display: inline-block;
+    zoom: 1;
+    *display: inline; 
+}
+.spfilter-products    .spfp-products .owl-dots .owl-dot span {
+      width: 10px;
+      height: 10px;
+      margin: 5px 7px;
+      background: #D6D6D6;
+      display: block;
+      -webkit-backface-visibility: visible;
+      transition: opacity 200ms ease;
+      border-radius: 30px; 
+}
+
+.spfilter-products .spfp-products .owl-dots .owl-dot.active span, 
+.spfp-products .owl-dots .owl-dot:hover span {
+      background: #869791; 
+}
+
+@media (max-width: 991px){
+	.spfilter-products  .product-miniature {
+		margin: 0 auto;
+	}
+}
+
+
+.cf:before,
+.cf:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.cf:after {
+    clear: both;
+}
+
+/**
+ * For IE 6/7 only
+ * Include this rule to trigger hasLayout and contain floats.
+ */
+.cf {
+    *zoom: 1;
+}

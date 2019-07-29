@@ -1,0 +1,352 @@
+/*******************************************************
+  SP FooterLinks Module Style
+********************************************************/
+#newsletter_block_home {
+	margin: 0;
+	h3.title_block, form{display: inline-block;}
+    h3.title_block {
+		color: #222;
+		font-weight: bold;
+		font-size: 16px;
+		text-transform: uppercase;
+		margin: 0 20px 0 0;
+		vertical-align: middle;
+	}
+    form {
+		margin: 0;
+		max-width: 530px;
+		width: auto;
+		border-radius: 50px;
+		background: #fff;
+		overflow: hidden;
+		vertical-align: middle;
+	}
+    .form-group {
+		margin: 0;height: 40px;padding: 0 115px 0 0;position: relative;
+		.button {
+			 width: auto ;
+			 padding: 0 20px;
+			 height: 100%;
+			 border-radius: 0px 40px 40px 0;
+			 position: absolute;
+			 font-size: 14px;
+			 color: #fff;
+			 text-transform: uppercase;
+			 font-weight: bold;
+			 right: 0;
+			 top: 0;
+			 text-align: center;
+			 .fa {font-size: 16px;}
+		}
+		.newsletter-input {
+			 height: 100%;
+			 border: none;
+			 background: transparent;
+			 color: #8c8c8c;
+			 font-size: 13px;
+			 width: 100%;
+			 font-weight: normal;
+			 padding: 0 35px;
+		}
+		input::-webkit-input-placeholder {
+			 color: #8c8c8c;
+		}
+		input::-moz-placeholder {
+			 color: #8c8c8c;
+		}
+		input:-moz-placeholder {
+			 color: #8c8c8c;
+		}
+		input:-ms-input-placeholder { 
+			 color: #8c8c8c;
+		}
+    }
+}
+
+.footer-v3 #newsletter_block_home {
+	width: 100%;
+}
+
+//-- New Letter 2
+
+#newsletter_block_home.new-letter-2{
+     position: relative;
+     padding: 0 45px;
+     &:before, &:after{
+		content: "";
+		position: absolute;
+		height: 95%;
+		width: 1px;
+		top: 0;
+		bottom: auto;
+	}
+    &:before{
+     left: 0; right: auto;
+    }
+    &:after{
+     left: auto; right: 0;
+    }
+    
+     h3.title_block{
+          color: #fff;
+          font-size: 16px;
+          margin: 0 0 10px;
+     }
+     
+     .fa{margin-right: 10px; line-height: 14px; vertical-align: top;}
+     
+     p{
+         color: rgba(255,255,255,0.7);
+          margin: 0 0 28px;
+     }
+     
+     form{
+          border-radius: 0;
+     }
+     .form-group {
+          padding: 0 60px 0 0;
+          .button{
+               border-radius: 0;
+               background: #9e9e9e;
+               &:hover{
+                    background: lighten(#9e9e9e, 10%);
+               }
+          }
+          .newsletter-input{
+               padding: 0 15px;
+          }
+     }
+}
+
+
+//-- SP Block New Letter Popup
+#newsletter_block_popup {
+     margin: 0;position: absolute;top: 0;left: 0;right: 0;bottom: 0;z-index: 10;
+     &:after {content: "";position: absolute;left: 0;top: 0;height: 100%;width: 100%;background: #000;opacity: 0.67;}
+     .close {
+          display: block; height: 35px; width: 35px; line-height: 32px;
+          border-radius: 50%;
+          text-align: center;
+          position: absolute;
+          color: #fff;;
+          font-size: 14px;
+          top: -15px;
+          right: -18px;
+          left: auto;
+          bottom: auto;
+          z-index: 12;
+          opacity: 1;
+          cursor: pointer;
+     }
+     .block_content {
+          width: 57%;height: 400px;padding:0 ;position: fixed;left: 21%;z-index: 11;top: 70px;
+          background: #fff url(../../../assets/img/bg_popup.jpg) no-repeat left center;
+          background-size: 100% 100%;
+          .content-inner {
+               padding: 0;
+               height: 100%;
+               width: 100%;
+               padding: 7.5% 0 0 10%;
+               display: block;
+               position: relative;
+               h2.title {
+                    font-size: 30px;
+                    color: #222;
+                    margin: 0 0 18px;
+                    font-weight: 700;
+                    text-transform: uppercase;
+                    position: relative;
+                    &:before{
+                         content: "\newletter";
+                         position: absolute;
+                         left: 0;
+                         top: -23px;
+                         right: auto;
+                         bottom: auto;
+                         font-size: 70px;
+                         color: #f4f4f4;
+                         font-weight: bold;
+                         letter-spacing: 1px;
+                         z-index: -1;
+                    }
+               }
+               h4 {font-size: 16px;color: #555;font-weight: 600;margin: 0 0 35px;}
+               form {margin: 0 0 8px;width: 400px;}
+               .form-group {
+                    margin: 0;height: 45px;padding: 0 50px 0 0;position: relative;background: #fff;
+                    border: 1px solid #ebebeb;
+                    .button {
+                         width: 50px;
+                         height: 100%;
+                         position: absolute;
+                         left: auto;
+                         background: transparent;
+                         right: 1px;
+                         top: 0;
+                         padding: 0;
+                         font-weight: bold;
+                         text-align: center;
+                         font-size: 20px;
+                    }
+                    .newsletter-input {
+                         height: 100%;
+                         border: none;
+                         background: transparent;
+                         font-size: 13px;
+                         width: 100%;
+                         color: #8c8c8c;
+                         font-weight: normal;
+                         padding: 0 10px;
+                    }
+               }
+               .msg {
+                    display: block; margin: 0; width: 100%;
+					.ckmsg{
+						vertical-align: middle;
+					}
+                    .checker {display: inline-block;}
+                    label {
+						display: inline-block;
+						font-weight: normal;
+						margin: 0 7px;
+						font-size: 13px;
+						color: #7d7d7d;
+					}
+               }
+               div.checker input{vertical-align: top;}
+               .sharing-buttons{
+                    position: absolute;
+                    top: auto;
+                    bottom: 0;
+                    left: 0;
+                    right: 0;
+                    background: rgba(255,92,0,0.7);
+                    border: none; padding: 20px 0 23px; margin: 0; text-align: center; display: block;
+                    h3.title{
+                         margin: 0 0 15px;
+                         color: #fff;
+                         text-transform: uppercase;
+                         font-weight: bold;
+                         font-size: 16px;
+                    }
+                    a {
+                         display: inline-block;
+                         height: 35px;width: 35px;
+                         border-radius: 50%;
+                         text-align: center;
+                         margin: 0 3px;
+                         line-height: 34px;
+                         background: #fff;
+                         color: #222;
+                         font-size: 16px;
+                         transition: all 0.3s ease 0s;
+                    }
+               }
+          }
+     }
+}
+
+//-- RTL
+.lang-rtl{
+     //-- SP NewLetter Popup
+     #newsletter_block_popup {
+          .close{left: -18px; right: auto;}
+          .block_content {
+               background: #fff url("../../../assets/img/popup-letter-2.jpg") no-repeat scroll left center / 100% 100%;
+               .content-inner {
+                    padding: 7.5% 10% 0 0;
+                    h2.title:before{
+                            left: auto; right: 0;
+                    }
+                    .form-group {
+                            padding: 0 0 0 50px;
+                            .button {right: auto; left: 1px;}
+                    }
+                    &:before{left: auto; right: 0;}
+               }
+          }
+     }
+}
+
+//-- Responsive
+
+@media (min-width: 1400px) {
+     #newsletter_block_popup .block_content {width: 40.5%;left: 30%;top: 200px;}
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+	div#newsletter_block_home{
+		h3.title_block, form {
+			display: block;
+		}
+		h3.title_block {
+			margin: 0 0 20px;
+		}
+    }
+	
+	//--layout-3
+	.footer-v3{
+		div#newsletter_block_home{
+			form{display: inline-block;}
+		}
+    }
+	
+	//--Layout 4
+	#newsletter_block_home.new-letter-2{
+		padding: 0 35px;
+	}
+	
+	 //-- RTL
+	.lang-rtl{
+		div#newsletter_block_home{
+			h3.title_block {
+				margin: 0 0 20px;
+			}
+		}
+	}
+	
+	//-- Popup
+	div#newsletter_block_popup .block_content {
+          height: 400px;width: 80%;left: 10%;
+     }
+}
+
+@media (max-width: 991px) {
+	div#newsletter_block_home{
+		text-align: center;
+		margin-bottom: 20px;
+		h3.title_block {
+			margin: 0 0 20px;
+		}
+    }
+	
+	//-- RTL
+	.lang-rtl{
+		div#newsletter_block_home{
+			h3.title_block {
+				margin: 0 0 20px;
+			}
+		}
+	}
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+	#newsletter_block_popup .block_content {
+        height: 360px;width: 86%;left: 7%; margin-top: 5%;
+    }
+}
+
+@media (max-width: 767px) {
+	
+	#newsletter_block_popup {display: none;}
+	
+    div#newsletter_block_home.new-letter-2{
+		padding: 0 15px;
+		text-align: justify;
+		margin-bottom: 40px;
+		&:before, &:after{
+			 display: none;
+		}
+    }
+}
+

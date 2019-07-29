@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\productcomments\productcomments.tpl" source-language="ar-SA" target-language="ar-SA" datatype="plaintext">
+    <body>
+      <trans-unit id="62a5e490880a92eef74f167d9dc6dca0">
+        <source>Hide</source>
+        <target>Hide</target>
+        <note>Context:
+File: D:\xampp\htdocs\ytc_templates\prestashop\sp_revo_1752\themes\sp_revo17\modules\productcomments\productcomments.tpl:38</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
